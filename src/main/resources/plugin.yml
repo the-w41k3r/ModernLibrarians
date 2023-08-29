@@ -1,0 +1,9 @@
+name: ModernLibrarians
+version: '${project.version}'
+main: me.w41k3r.modernlibrarians.ModernLibrarians
+api-version: '1.20'
+permissions:
+  ml.reload:
+    description: Allows users to reload the plugin configuration.
+    default: op
+
