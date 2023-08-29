@@ -11,4 +11,4 @@
 ![image](https://github.com/the-w41k3r/ModernLibrarians/assets/64218536/a5dc965f-be6c-48c5-b67e-ca2f3c58d91f)
 
 
-## Discord: https://discord.gg/XpwNT5Jr5Y
+## [Discord](https://discord.gg/XpwNT5Jr5Y)
